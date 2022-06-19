@@ -99,6 +99,9 @@
         object-fit: cover;
         width: 300px;
     }
+    #hide{
+        display: none;
+    }
 }
 @media (max-width: 767px){
     #nav{
